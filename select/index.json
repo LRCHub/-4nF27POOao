@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "HALLO ALIEN",
+  "base_artist": "PIGGS",
+  "createdAt": "2026-02-10T19:18:52.844381Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HALLO ALIEN",
+      "artist": "PIGGS",
+      "has_synced": false,
+      "path": "select/pl_01_HALLO_ALIEN_PIGGS.txt"
+    }
+  ]
+}
